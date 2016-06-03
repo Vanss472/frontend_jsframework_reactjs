@@ -9,4 +9,4 @@ Command Line Tasks
 
 CodePen:
 -------------
-[http://codepen.io/vanss472/pen/Eyjjyb/](CodePen Hello World example)
+[CodePen Hello World example](http://codepen.io/vanss472/pen/Eyjjyb/)
