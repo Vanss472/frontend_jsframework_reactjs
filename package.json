@@ -1,0 +1,26 @@
+{
+  "name": "frontend_jsframework_reactjs",
+  "version": "0.0.1",
+  "description": "Example of Card Layout using ReactJS and CSS Flex",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanss472/frontend_jsframework_reactjs.git"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "Vanessa Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vanss472/frontend_jsframework_reactjs/issues"
+  },
+  "homepage": "https://github.com/Vanss472/frontend_jsframework_reactjs#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

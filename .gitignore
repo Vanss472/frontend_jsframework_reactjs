@@ -1,0 +1,14 @@
+.DS_Store
+.sass-cache
+bower_components
+npm-debug.log
+*.log
+temp
+.idea
+
+tmp/
+node_modules/
+for dev/
+src/babel/
+src/react/
+templates/helloWorld.html
