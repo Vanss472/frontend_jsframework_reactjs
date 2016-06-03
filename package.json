@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Vanss472/frontend_jsframework_reactjs#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "open": "0.0.5"
   }
 }
