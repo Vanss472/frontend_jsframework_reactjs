@@ -48,7 +48,7 @@ var HiThere = React.createClass ({
 
 ReactDOM.render(<HiThere />, document.getElementById('app'));
 
-
+//CARD
 var CardContainer = React.createClass({
 	render: function(){
 		var cards = [];
@@ -79,7 +79,7 @@ var CardContent = React.createClass({
 				<div className="card-flex-content">
 					<h3>{this.props.headerText}</h3>
 					<p>{this.props.description}</p>
-					<a href={this.props.url} className="card-flex-button">Button</a>
+					<a href={this.props.url} className="card-flex-button btn-block">Button</a>
 				</div>
 			</div>
 		);
