@@ -6,6 +6,10 @@ Command Line Tasks
 
 `npm start` -- Runs localhost server
 
+Demo:
+-------------
+[demo](http://codepen.io/vanss472/full/QEbYep/)
+
 
 CodePen:
 -------------
